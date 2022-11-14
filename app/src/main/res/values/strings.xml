@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnimeGogonity-Binar</string>
+    <string name="top_airing_section">Top Airing</string>
+    <string name="anime_list_section">Other Anime</string>
+    <string name="recent_release_section">Recent Release</string>
+    <string name="text_empty_data">No Data</string>
+    <string name="text_url_empty">Url is Empty</string>
+</resources>
